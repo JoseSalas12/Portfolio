@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "./fonts.css";
+
+
+@theme {
+  /* Colores */
+  --color-background: #001512;
+  --color-surface: #04272D;
+  --color-muted: #8D9997;
+  --color-white: #FFFFFF;
+  --color-accent: #02CDAD;
+
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Clash Display", sans-serif;
+  
+  /* Sombras */
+  --shadow-box:0px 4px 4px rgba(4, 39, 45, 0.36);
+  --text-shadow-accent: 0px 4px 4px rgba(2, 205, 173, 0.35);
+
+  /* Fuentes */
+  --font-roboto: "Roboto", sans-serif;
+}
+
