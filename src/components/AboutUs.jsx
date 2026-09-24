@@ -15,7 +15,7 @@ function AboutUs(){
                     </h2>
                 </div>
                 <div className="w-full flex gap-4 pt-9.75">
-                    <div className="hidden">
+                    <div className="hidden lg:block">
                         <figure>
                             <img src={AboutImg} alt="Jose Salas programando" className="rounded-4xl h-full" />
                         </figure>
